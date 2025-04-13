@@ -60,6 +60,8 @@ The MATLAB and FORTRAN codes can be used in two modalities:
 In both cases, you have to clone this repository: 
 `git clone https://github.com/AndreaCerioliUNIPR/Benford-savvy.git`
 
+### Upcoming: distribution in FSDA 
+
 These and other Benford-based tests are currently being integrated into the 
 FSDA toolbox for MATLAB. The integration is ongoing, and we expect to release it soon. 
 Once available, the toolbox will be installable directly via the “Install App” 

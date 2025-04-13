@@ -14,8 +14,8 @@ digits under the lens of Benford’s law. Motivated by the statistical analysis 
 customs declarations, we answer one major and still open question: How can
 we detect the behavior of operators who are aware of the prevalence of the
 Benford’s pattern in the digits of regular observations and try to manipulate
-their data in such a way that the same pattern also holds after data fabrica-
-tion? This challenge arises from the ability of highly skilled and strategically
+their data in such a way that the same pattern also holds after data fabrication? 
+This challenge arises from the ability of highly skilled and strategically
 minded manipulators in key organizational positions or criminal networks to
 exploit statistical knowledge and evade detection. For this purpose, we write
 a specific contamination model for digits, investigate distributional results on
@@ -24,11 +24,11 @@ statistics for the considered adversarial testing problem. Along our path, we
 also unveil the peculiar relationship between two simple conformance tests
 based on the distribution of the first digit. We show the empirical properties
 of the proposed tests through a simulation exercise and application to real data
-from international trade transactions. Although we cannot claim that our re-
-sults are able to anticipate data fabrication with certainty, they surely point to
+from international trade transactions. Although we cannot claim that our results 
+are able to anticipate data fabrication with certainty, they surely point to
 situations where more substantial controls are needed. Furthermore, our work
-can reinforce trust in data integrity in many critical domains where mathemat-
-ically informed misconduct is suspected.
+can reinforce trust in data integrity in many critical domains where mathematically 
+informed misconduct is suspected.
 
 
 ## Description of the repository files

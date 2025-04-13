@@ -45,7 +45,7 @@ ically informed misconduct is suspected.
 |`sig_A.txt`:                       | anonymized and ordered significands used in our applications for Operator A | 
 |`sig_B.txt`:                       | anonymized and ordered significands used in our applications for Operator B | 
 
-More information on the MATLAB funcitons' input-output can be found in the file *ReadMe_Matlab.txt*.
+More information on the MATLAB functions' input-output can be found in the file *ReadMe_Matlab.txt*.
 
 More information on the content of the *FMatlab_mex.zip* can be found in the file *ReadMe_Matlab_mex.txt*.
 
@@ -60,8 +60,15 @@ The MATLAB and FORTRAN codes can be used in two modalities:
 In both cases, you have to clone this repository: 
 `git clone https://github.com/AndreaCerioliUNIPR/Benford-savvy.git`
 
-These and other Benford's tests are being implemented in the FSDA toolbox for MATLAB,
-which can be installed from the "Install App" of the standard MATLAB distribution.
+These and other Benford-based tests are currently being integrated into the 
+FSDA toolbox for MATLAB. The integration is ongoing, and we expect to release it soon. 
+Once available, the toolbox will be installable directly via the “Install App” 
+feature in the standard MATLAB distribution.
+
+More on the free *FSDA* MATLAB Add-On is available at 
+https://it.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox. 
+FSDA requires the Statistical and Machine Learning Toolbox. The Parallel 
+Processing Toolbox may be useful to speed up computations. 
 
 
 

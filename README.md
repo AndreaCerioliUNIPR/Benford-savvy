@@ -62,15 +62,17 @@ In both cases, you have to clone this repository:
 
 ### Upcoming: distribution in FSDA 
 
-These and other Benford-based tests are currently being integrated into the 
-FSDA toolbox for MATLAB. The integration is ongoing, and we expect to release it soon. 
-Once available, the toolbox will be installable directly via the “Install App” 
-feature in the standard MATLAB distribution.
+These and other Benford-based tests are currently being integrated into the
+*FSDA* toolbox for MATLAB. The integration is in progress, and we expect to release it soon.
+Once available, the toolbox—along with all relevant functions from this repository 
+needed to apply the tests proposed in our paper—will be installable directly via 
+the *“Install App”* feature in the standard MATLAB distribution.
 
-More on the free *FSDA* MATLAB Add-On is available at 
-https://it.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox. 
-FSDA requires the Statistical and Machine Learning Toolbox. The Parallel 
-Processing Toolbox may be useful to speed up computations. 
+More information about the free FSDA MATLAB Add-On is available at:
+*https://it.mathworks.com/matlabcentral/fileexchange/72999-fsda-flexible-statistics-data-analysis-toolbox*.
+
+FSDA requires the Statistical and Machine Learning Toolbox. 
+The Parallel Computing Toolbox is also recommended to speed up computations.
 
 
 

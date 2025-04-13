@@ -35,7 +35,7 @@ ically informed misconduct is suspected.
 
 | FileName                          | Description                             | 
 |-----------------------------------|-----------------------------------------|
-|`CalculateTests.m`:                | Function for calculating the value of different Benford tests on each column of X. <br> If the null distribution of the tests is provided, it also returns the corresponding p-values.                       | 
+|`CalculateTests.m`:                | Function for calculating the value of different Benford tests on each column of X. <br> If the null distribution of the tests is provided, it also returns the corresponding p-values. | 
 |`FMatlab_mex.zip`:                 | generate Figure 6  <br> and SI-Figure 1 | 
 |`NullDistributions.m`:             | generate Figure 7  <br> and SI-Figure 2 | 
 |`NumberOfSignificantDigits.m`:     | generate Figure 8                       | 

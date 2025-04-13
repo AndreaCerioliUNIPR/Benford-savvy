@@ -1,6 +1,6 @@
         PROGRAM TestBenford
 C  
-C FOR INDIVIDUAL SCIENTIFIC USE ONLY
+C FOR INDIVIDUAL SCIENTIFIC USE ONLY 
 C
 C 
 C Computes the * exact size and power *  of several (GOF) tests of Benford's law.

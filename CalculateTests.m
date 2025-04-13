@@ -2,7 +2,7 @@ function BenfordTests=CalculateTests(X,H0)
 %{
 Function for calculating the value of different Benford tests on each column of X.
 If the null distribution of the tests is provided, it also returns the
-corresponding p-values.
+corresponding p-values. 
 
 INPUT
 X: (n x k) matrix of doubles

@@ -35,15 +35,17 @@ ically informed misconduct is suspected.
 
 | FileName                          | Description                             | 
 |-----------------------------------|-----------------------------------------|
-|`CalculateTests.m`:                | generate Figure 3                       | 
+|`CalculateTests.m`:                | Function for calculating the value of different Benford tests on each column of X.
+If the null distribution of the tests is provided, it also returns the
+corresponding p-values.                       | 
 |`FMatlab_mex.zip`:                 | generate Figure 6  <br> and SI-Figure 1 | 
 |`NullDistributions.m`:             | generate Figure 7  <br> and SI-Figure 2 | 
 |`NumberOfSignificantDigits.m`:     | generate Figure 8                       | 
 |`SimulateSavvyFraudsterNumbers.m`: | generate Figure 9                       | 
 |`TestBenford_input.zip`:           | generate Figure 10                      | 
 |`TestBenford_public.for`:          | generate Figure 11 <br> and SI-Figure 5 | 
-|`sig_A.txt`:                       | anonymized and ordered  significands used in our applications for Operator A | 
-|`sig_B.txt`:                       | anonymized and ordered  significands used in our applications for Operator B | 
+|`sig_A.txt`:                       | anonymized and ordered significands used in our applications for Operator A | 
+|`sig_B.txt`:                       | anonymized and ordered significands used in our applications for Operator B | 
 
 
 ## Results replication: requirements and setup

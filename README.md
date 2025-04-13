@@ -40,8 +40,8 @@ ically informed misconduct is suspected.
 |`NullDistributions.m`:             | Function for simulating 1,000,000 values of the Benford tests under the null. | 
 |`NumberOfSignificantDigits.m`:     | Function for calculating the number of significant digits of each value in X. | 
 |`SimulateSavvyFraudsterNumbers.m`: | Function for simulating a matrix X of values that mimic the behavior of a "savvy" fraudster, i.e. first digit Benford, other digits not Benford (see the manipulated-Benford contamination model of the paper). | 
-|`TestBenford_input.zip`:           | generate Figure 10                      | 
-|`TestBenford_public.for`:          | generate Figure 11 <br> and SI-Figure 5 | 
+|`TestBenford_public.for`:          | Fortran code that can be used for replicating the simulation results presented in the article. More info in *ReadMe_Fortran.txt* | 
+|`TestBenford_input.zip`:           | Input files required by the Fortran code. Each input file also includes a brief description of the parameters that the file itself contains.  More info in *ReadMe_Fortran.txt* | 
 |`sig_A.txt`:                       | anonymized and ordered significands used in our applications for Operator A | 
 |`sig_B.txt`:                       | anonymized and ordered significands used in our applications for Operator B | 
 

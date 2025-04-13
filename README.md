@@ -35,15 +35,19 @@ ically informed misconduct is suspected.
 
 | FileName                          | Description                             | 
 |-----------------------------------|-----------------------------------------|
-|`CalculateTests.m`:                | Function for calculating the value of different Benford tests on each column of X. <br> If the null distribution of the tests is provided, it also returns the corresponding p-values. | 
-|`FMatlab_mex.zip`:                 | generate Figure 6  <br> and SI-Figure 1 | 
-|`NullDistributions.m`:             | generate Figure 7  <br> and SI-Figure 2 | 
-|`NumberOfSignificantDigits.m`:     | generate Figure 8                       | 
-|`SimulateSavvyFraudsterNumbers.m`: | generate Figure 9                       | 
+|`CalculateTests.m`:                | Function for calculating the value of different Benford tests on each column of X. If the null distribution of the tests is provided, it also returns the corresponding p-values. | 
+|`FMatlab_mex.zip`:                 | The zip extracts a folder with three files which provide a Matlab wrapper to a compatible version (i.e., without IMSL routines) of the Fortran code used to obtain the simulation results presented in the article. | 
+|`NullDistributions.m`:             | Function for simulating 1,000,000 values of the Benford tests under the null. | 
+|`NumberOfSignificantDigits.m`:     | Function for calculating the number of significant digits of each value in X. | 
+|`SimulateSavvyFraudsterNumbers.m`: | Function for simulating a matrix X of values that mimic the behavior of a "savvy" fraudster, i.e. first digit Benford, other digits not Benford (see the manipulated-Benford contamination model of the paper). | 
 |`TestBenford_input.zip`:           | generate Figure 10                      | 
 |`TestBenford_public.for`:          | generate Figure 11 <br> and SI-Figure 5 | 
 |`sig_A.txt`:                       | anonymized and ordered significands used in our applications for Operator A | 
 |`sig_B.txt`:                       | anonymized and ordered significands used in our applications for Operator B | 
+
+More information on the MATLAB funcitons' input-output can be found in the file *ReadMe_Matlab.txt*.
+
+More information on the content of the *FMatlab_mex.zip* can be found in the file *ReadMe_Matlab_mex.txt*.
 
 
 ## Results replication: requirements and setup

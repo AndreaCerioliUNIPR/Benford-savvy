@@ -9,26 +9,8 @@ Files used for simulations in the paper and the Supplementary Material titled:
 
 ## Abstract
 
-We address the task of identifying anomalous observations by analyzing
-digits under the lens of Benford’s law. Motivated by the statistical analysis of
-customs declarations, we answer one major and still open question: How can
-we detect the behavior of operators who are aware of the prevalence of the
-Benford’s pattern in the digits of regular observations and try to manipulate
-their data in such a way that the same pattern also holds after data fabrication? 
-This challenge arises from the ability of highly skilled and strategically
-minded manipulators in key organizational positions or criminal networks to
-exploit statistical knowledge and evade detection. For this purpose, we write
-a specific contamination model for digits, investigate distributional results on
-the fractional part of the significand and derive appropriate goodness-of-fit
-statistics for the considered adversarial testing problem. Along our path, we
-also unveil the peculiar relationship between two simple conformance tests
-based on the distribution of the first digit. We show the empirical properties
-of the proposed tests through a simulation exercise and application to real data
-from international trade transactions. Although we cannot claim that our results 
-are able to anticipate data fabrication with certainty, they surely point to
-situations where more substantial controls are needed. Furthermore, our work
-can reinforce trust in data integrity in many critical domains where mathematically 
-informed misconduct is suspected.
+Motivated by the task of identifying anomalous observations through the analysis of digits under the lens of Benford’s law, we answer one major and still open question: How can we detect the behavior of operators who are aware of the prevalence of the Benford's pattern in the digits of regular observations and try to manipulate their data in such a way that the same pattern also holds after data fabrication? This challenge arises from the ability of strategically minded manipulators to exploit statistical knowledge and evade detection. To achieve our purpose, we write a specific contamination model for digits, obtain new relevant distributional results and derive appropriate goodness-of-fit statistics for the considered adversarial testing problem. Along our path, we also unveil the relationship between two simple conformance tests based on the distribution of the first digit. We show the empirical properties of the proposed tests through a simulation exercise and application to real data from international trade transactions. Although we cannot claim that our results are able to anticipate data fabrication with certainty, they surely point to situations where more substantial controls are needed. Furthermore, our work can reinforce trust in data integrity in critical domains where mathematically informed misconduct is suspected.
+
 
 
 ## Description of the repository files

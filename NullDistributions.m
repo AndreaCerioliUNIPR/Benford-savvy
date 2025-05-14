@@ -1,4 +1,4 @@
-function [H0,H0r]=NullDistributions(x)
+function [H0,H0r]=NullDistributions(x) 
 %{
 Function for simulating 1,000,000 values of the Benford tests under the
 null. 

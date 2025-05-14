@@ -1,4 +1,4 @@
-function nsd=NumberOfSignificantDigits(X)
+function nsd=NumberOfSignificantDigits(X) 
 %{ 
 Function for calculating the number of significant digits of each value in
 X.

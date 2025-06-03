@@ -2,8 +2,7 @@
 
 Files used for simulations in the paper and the Supplementary Material titled:
 
-# Protecting Against Adversarial Contamination in Benford’s Law
-
+# Robust inference under Benford's law
 
 > **Note:** This repository contains code and instructions for replicating the results of a paper currently under peer review. 
 

@@ -1,4 +1,4 @@
-This folder contains the Fortran code:  
+This folder contains the Fortran code:   
 
 TestBenford_public.for
 
@@ -17,3 +17,4 @@ operating system.
 The Fortran program also makes use of some IMSL functions and routines. 
 A compatible version (i.e., a version without IMSL routines) can be run from Matlab using 
 a wrapper to the source file compiled using the mex function.
+

@@ -1,5 +1,5 @@
 This folder contains MATLAB codes that can be used for generating part of the results presented in the article.
-In particular, the following functions are present:  
+In particular, the following functions are present:   
 _______________________________________________________________________________________________________
 
 CalculateTests.m
@@ -89,5 +89,6 @@ paramXB: double, the parameter of the other significant digits distribution
 OUTPUT
 X: (n x nsim) matrix of simulated values (doubles)
 _______________________________________________________________________________________________________
+
 
 

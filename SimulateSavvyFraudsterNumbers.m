@@ -1,4 +1,4 @@
-function X=SimulateSavvyFraudsterNumbers(n,nsim,modelXB,paramXB)  
+function X=SimulateSavvyFraudsterNumbers(n,nsim,modelXB,paramXB)   
 %{
 Function for simulating a matrix X of values that mimick the behaviour of 
 a "savvy" fraudster, i.e. first digit Benford, other digits not Benford.
@@ -53,5 +53,6 @@ switch model
 end
 numbersXB=x;
 end
+
 
 
